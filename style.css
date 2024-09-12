@@ -1,0 +1,23 @@
+@charset "UTF-8";
+*{
+   text-align: center;
+}
+header{
+    background-color: black;
+    background:black;
+    color: aliceblue;
+    padding: 15px;
+    border-radius: 72px 15px;
+    box-shadow: 2px 2px 3px;
+}
+body{
+    background-color:aqua;
+}
+main{
+    margin: 15px; 
+    padding: 15px;
+}
+.mp1{
+    background-color: black;
+
+    }
